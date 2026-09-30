@@ -131,14 +131,10 @@ Tic_Tac_Toe/
 This section is intentionally reserved for event visuals, gameplay screenshots, and demo images.
 
 ### Placeholder for project images
+<img width="1920" height="1200" alt="Screenshot (462)" src="https://github.com/user-attachments/assets/642c3a53-7cec-4f06-a0cb-b85c3e863902" />
+<img width="1920" height="1200" alt="Screenshot (464)" src="https://github.com/user-attachments/assets/292079bf-7d48-4874-9ba1-a1749be4da86" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/9a2e8f65-6da4-4dac-bd53-f907406cc95d" />
 
-![Project Screenshot 1](#)
-
-![Project Screenshot 2](#)
-
-![Project Screenshot 3](#)
-
-> Add the relevant screenshots here after the event or during project presentation.
 
 ---
 
