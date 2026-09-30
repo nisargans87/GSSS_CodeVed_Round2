@@ -5,7 +5,7 @@ Round 2 Technical Event, CodVed - 2026 · Gita Samhita - 2026
 <p align="center">
 <img src="https://img.shields.io/badge/Event-Gita_Samhita_2026-blue?style=for-the-badge&logo=eventbrite&logoColor=white" alt="Gita Samhita 2026" />
 <img src="https://img.shields.io/badge/Competition-CodeVed-7928CA?style=for-the-badge&logo=codeforces&logoColor=white" alt="CodeVed" />
-<img src="https://img.shields.io/badge/Round-Round_2_(Knockout)-e11d48?style=for-the-badge" alt="Round 2" />
+<img src="https://img.shields.io/badge/Round-Round_2-e11d48?style=for-the-badge" alt="Round 2" />
 <img src="https://img.shields.io/badge/College-GSSS_SSFGC,_Mysuru-0284c7?style=for-the-badge" alt="GSSS SSFGC Mysuru" />
 </p>
 
