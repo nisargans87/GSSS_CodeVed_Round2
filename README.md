@@ -1,4 +1,4 @@
-# ⚔️ Code & Conquer: Java Tic-Tac-Toe
+# Code & Conquer: Tic-Tac-Toe
 
 Round 2 Technical Event, CodVed - 2026 · Gita Samhita - 2026
 
